@@ -11,7 +11,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#flanet이란?">FlaNET이란?</a>
+      <a href="#flanet이란">FlaNET이란?</a>
       <ul>
         <li><a href="#기획-배경-및-전망"> 기획 배경 및 전망 </a></li>
         <li><a href="#기술-스택"> 기술 스택 </a></li>
